@@ -8,7 +8,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* Un joli dégradé de fond moderne */
-    background: linear-gradient(135deg, #4f46e5 0%, #06b6d4 100%);
+    background: linear-gradient(135deg, #2720b6 0%, #06b6d4 100%);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -72,4 +72,9 @@ h2 {
 
 .bouton-secondaire:hover {
     background-color: #cbd5e1;
+}
+
+
+.aa {
+    color:red;
 }
